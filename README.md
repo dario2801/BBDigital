@@ -1,5 +1,6 @@
 # BBDigital
-
+**DESCOMPRIMIR ARCHIVO .RAR
+** PAQUETE DE MODULOS NO INGRESADO
 # -------------------------------------------------------------------------------- Sobre la web--------------------------------------------------------------------
 # Sobre la Web
 1.  Este Proyecto es un Ejercicio Tècnico de BBDigital, consiste en el desarrollo de una pègina de ventas de artìculos para distintas categorìas las 
